@@ -1,1 +1,0 @@
-{"version":1,"defects":{"InvoiceCalculatorTest::testCalculateTotal":5,"InvoiceCalculatorTest::testApplyDiscount":5,"InvoiceCalculatorTest::testApplyInvalidDiscount":5},"times":{"InvoiceCalculatorTest::testCalculateTotal":0.353,"InvoiceCalculatorTest::testApplyDiscount":0,"InvoiceCalculatorTest::testApplyInvalidDiscount":0.087}}
